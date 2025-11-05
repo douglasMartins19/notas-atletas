@@ -36,23 +36,6 @@ Automatizar o cálculo de médias em competições de ginástica artística, seg
 - JavaScript (ES6+)
 - Node.js (para execução)
 
-## 📦 Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/sistema-avaliacao-ginastica.git
-```
-
-2. Navegue até o diretório do projeto:
-```bash
-cd sistema-avaliacao-ginastica
-```
-
-3. Execute o arquivo JavaScript:
-```bash
-node notas-atletas.js
-```
-
 ## 📝 Estrutura de Dados
 
 ```javascript
